@@ -1,16 +1,16 @@
-# Terminal Initialized: Daksh Verma 💻
+# Terminal Initialized: Echo 💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&pause=1000&color=EC4899&width=550&lines=Low-Level+Systems+Hacker;Linux+Kernel+%26+eBPF+Tracing;Sub-Microsecond+Performance+Tuning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&pause=1000&color=EC4899&width=550&lines=Low-Level+Systems+Engineer;Linux+Kernel+%26+eBPF+Tracing;Sub-Microsecond+Performance+Tuning)](https://git.io/typing-svg)
 
 ---
 
-### 🐧 The Low-Level Frontier
+### 🐧 About Echo Node
 Passionate about software that touches the metal. Exploring memory layouts, cache hierarchies, kernel bypass networking, and deep system observability.
 
 - ⚙️ Deep dive into **eBPF (Extended Berkeley Packet Filter)** for runtime tracing and network acceleration.
 - ⚡ Profiling cache misses, CPU instruction pipelines, and lockless data structures.
 - 🐧 Linux system calls, memory management subsystem, and device drivers.
-- 🛠️ Active contributor in low-level system tooling, memory safety, and performance analysis.
+- 🛠️ Low-level system tooling, memory safety, and performance analysis.
 
 ---
 
